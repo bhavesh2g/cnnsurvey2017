@@ -1,39 +1,39 @@
 # cnnsurvey2017
-A)Layers
-		1.Convolutional
-			a.Tiled
-			b.Transposed
-		  c.Dilated
-  2.Fully connected
-  3.Network in network
-  4.Inception
-B)Pooling
-  1.Max pooling
-  2.Average pooling
-  3.Mixed pooling
-  4.Lp
-  5.Spatial/Spectral/Stochastic/Orderless
-C)Activation
-  1.Identity/tanh/sigmoid
-  2.Softmax/Maxout/Probmax
-  3.ReLu/LReLu/PReLu/RReLu
-  4.ELU
-D)Optimization algorithm
-  1.DataAugementation/WeightInitialization
-  2.RMSprop/ShortcutConnections
-  3.AdaGrad/AdaM
-  4.SGD(stichasticGradientDescent)
-    a.with L2norm/momen
-    b.without
-  5.Normalisation
-    a.contrast
-    b.batch
-  6.Regularisation
-    a.Droput/DropConnect
-    b.Lp-norm
-E)Loss Function
-  1.Cross entropy
-  2.MSE/MAE/MAEe
-  3.Hinge/Triplet
-  4.Softmax/Contrast
-  5.KL Divergence
+1.	Layers
+a.	Convolutional
+i.	Tiled
+ii.	Transposed
+iii.	Dilated
+b.	Fully connected
+c.	Network in network
+d.	Inception
+2.	Pooling
+a.	Max pooling
+b.	Average pooling
+c.	Mixed pooling
+d.	Lp
+e.	Spatial/Spectral/Stochastic/Orderless
+3.	Activation
+a.	Identity/tanh/sigmoid
+b.	Softmax/Maxout/Probmax
+c.	ReLu/LReLu/PReLu/RReLu
+d.	ELU
+4.	Optimization algorithm
+a.	Data Augementation/ Weight Initialization
+b.	RMSprop/Shortcut Connections
+c.	AdaGrad/AdaM
+d.	SGD (Stochastic Gradient Descent)
+i.	with L2norm/momen
+ii.	without
+e.	Normalisation
+i.	Contrast
+ii.	Batch
+f.	Regularisation
+i.	Droput/DropConnect
+ii.	Lp-norm
+5.	Loss Function
+a.	Cross entropy
+b.	MSE/MAE/MAEe
+c.	Hinge/Triplet
+d.	Softmax/Contrast
+e.	KL Divergence
