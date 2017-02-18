@@ -1,9 +1,9 @@
 # cnnsurvey2017
 A)Layers
-  1.Convolutional
-    a.Tiled
-    b.Transposed
-    c.Dilated
+		1.Convolutional
+			a.Tiled
+			b.Transposed
+		  c.Dilated
   2.Fully connected
   3.Network in network
   4.Inception
